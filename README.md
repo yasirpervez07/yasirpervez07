@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a Laravel Developer
+
+Experienced PHP Laravel developer with extensive server-side web development knowledge gathered across 2 years in the industry. Well-versed in Front-End development. Led company-wide integration with third-party APIs. Seeking to broaden knowledge of databases and deliver the highest standards of web design in Brash General.
 
 
 ## 🌐 Socials:
