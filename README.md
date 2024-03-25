@@ -1,6 +1,8 @@
 # 💫 About Me:
 
-Experienced PHP Laravel developer with extensive server-side web development knowledge gathered across 2 years in the industry. Well-versed in Front-End development. Led company-wide integration with third-party APIs. Seeking to broaden knowledge of databases and deliver the highest standards of web design in Brash General.
+I'm a seasoned <b> Full Stack Developer </b> with a passion for crafting efficient and scalable solutions. With over 3.5 years of hands-on experience in <b>Laravel</b> , I've honed my skills in building robust backend systems that power modern web applications. My proficiency extends to frontend technologies such as <b>Vue.js</b>  and <b>Angular</b>, where I excel in creating dynamic and responsive user interfaces.
+In addition to my expertise in web development frameworks, I have a solid understanding of database management with <b>MySQL </b> and <b>MongoDB </b>. Leveraging my <b> DevOps</b> skills, I'm adept at server configurations, deployment automation, and project management on platforms like GitHub. My commitment to streamlining workflows has led to seamless project synchronization and enhanced collaboration within development teams.I thrive in fast-paced environments where innovation and problem-solving are valued. Whether it's architecting complex systems or troubleshooting technical challenges, I bring a proactive and solution-oriented approach to every project.
+                    
 
 
 ## 🌐 Socials:
